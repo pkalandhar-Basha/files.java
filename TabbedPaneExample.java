@@ -3,7 +3,7 @@ package buttondemo;
 import java.awt.Color;
 import javax.swing.*;
 
-public class TabbedPaneExample {
+public class TabbedPane {
 
     JFrame f;
 
