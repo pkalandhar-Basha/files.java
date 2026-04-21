@@ -1,4 +1,4 @@
-lab1: 
+lab1:  
 
    1a->https://github.com/pkalandhar-Basha/files.java/blob/main/ListOperations.java
 
